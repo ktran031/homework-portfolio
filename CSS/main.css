@@ -1,5 +1,7 @@
 
 
+/*this is a comment in CSS*/
+
 body {
   font-family: Arial;
   font-size: 16px;
@@ -58,7 +60,7 @@ body {
 }
 
 	li {
-  display: inline;
+ 
   padding: 0px 10px 0px 10px;
 }
 
